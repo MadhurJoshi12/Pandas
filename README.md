@@ -1,10 +1,10 @@
-🐼 Pandas – Data Analysis & Manipulation Mastery
-📘 Overview
+**🐼 Pandas – Data Analysis & Manipulation Mastery
+📘 Overview**
 
 This repository documents my hands-on journey with Pandas, the cornerstone of modern data analysis in Python.
 From cleaning messy datasets to advanced data transformations, this project reflects my deep dive into real-world data wrangling and analysis — a vital foundation for any AI/ML engineer.
 
-🧠 What I Learned
+**🧠 What I Learned**
 
 Efficient data handling with Series and DataFrames
 
@@ -22,7 +22,7 @@ Working with time-series and categorical data
 
 Quick visualization using Pandas plotting features
 
-🧩 Tools & Libraries Used
+**🧩 Tools & Libraries Used**
 
 Python 3
 
@@ -42,9 +42,11 @@ This repo is just the beginning of a much larger journey:
 🕒 [ ] Scikit-learn
 🕒 [ ] Machine Learning Projects with real datasets
 
-🧑‍💻 About Me
+**🧑‍💻 About Me**
 Madhur Joshi
+
 First-Year BTech Student | Python Enthusiast | Future AI/ML Engineer
+
 🇮🇳 India → Europe (Goal)
 
 📬 GitHub: @MadhurJoshi12
