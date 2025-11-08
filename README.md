@@ -22,6 +22,7 @@ Working with time-series and categorical data
 
 Quick visualization using Pandas plotting features
 
+
 **🧩 Tools & Libraries Used**
 
 Python 3
@@ -32,15 +33,22 @@ Pandas
 
 Jupyter Notebook / VS Code
 
-🚀 What’s Next?
+
+**🚀 What’s Next?**
 
 This repo is just the beginning of a much larger journey:
 
 ✅ [x] NumPy
+
 ✅ [x] Pandas
+
 🕒 [ ] Matplotlib / Seaborn
+
 🕒 [ ] Scikit-learn
+
 🕒 [ ] Machine Learning Projects with real datasets
+
+
 
 **🧑‍💻 About Me**
 Madhur Joshi
